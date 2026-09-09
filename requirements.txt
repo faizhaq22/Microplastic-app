@@ -1,5 +1,6 @@
-streamlit
-numpy
-pillow
-ultralytics
-opencv-python-headless
+Python
+Streamlit
+OpenCV
+Ultralytics YOLO
+NumPy
+Pillow (PIL)
