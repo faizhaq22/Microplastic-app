@@ -3,3 +3,7 @@ import numpy as np
 from PIL import Image
 import base64
 from Models import detection
+!pip install ultralytics
+from ultralytics import YOLO
+import ultralytics
+from ultralytics import YOLO
