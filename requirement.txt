@@ -1,8 +1,6 @@
 streamlit
-pillow
 numpy
-pandas
-scikit-learn
-joblib
-matplotlib 
-seaborn
+pillow
+ultralytics
+torch
+torchvision
