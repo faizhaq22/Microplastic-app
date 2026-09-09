@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['fiber', 'film', 'fragment', 'pallet']
+
+roboflow:
+  workspace: microplastic-lbpye
+  project: microplastics-m7mf5-kzhl7
+  version: 3
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/microplastic-lbpye/microplastics-m7mf5-kzhl7/dataset/3
